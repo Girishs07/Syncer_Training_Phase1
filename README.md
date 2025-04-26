@@ -3,7 +3,7 @@ Data Analyst Training is a structured 30-day learning program designed for begin
 
 # Training
 **Your Name:**
-Girish S
+ ==Girish S==
 
 **Register Number:**
 713322AD028
