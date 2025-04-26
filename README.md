@@ -29,11 +29,12 @@ Due to the size of the dataset (~140MB), it is hosted on **Google Drive** for ea
 ---
 
 # Training
-**Your Name:**
- ==Girish S==
+>**Your Name:**
+**Girish S**
 
-**Register Number:**
-713322AD028
+
+>**Register Number:**
+**713322AD028**
 
 ---
 ## Phase - 1
