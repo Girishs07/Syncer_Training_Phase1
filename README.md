@@ -19,6 +19,15 @@ Power BI — For creating insightful dashboards and data visualizations
 
 📌 Note: Although the GitHub language stats show Jupyter Notebooks predominantly, this project also includes work across Databricks, SQL, and Power BI environments.
 
+---
+
+## 📥 Dataset Access
+Due to the size of the dataset (~140MB), it is hosted on **Google Drive** for easy access.
+
+[**Click here to download the dataset**](https://drive.google.com/drive/folders/1GOsi6_QqqJuHHo7CXT13DtLRa_1NJx4o?usp=drive_link)
+
+---
+
 # Training
 **Your Name:**
 Girish S
