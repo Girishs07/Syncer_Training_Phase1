@@ -1,4 +1,4 @@
-# Syncer_Training_Phase1
+# Data_Analysts.....
 Welcome to the Data Analyst Training Journey! 🚀
 
 This is a 25-day action-packed learning program crafted for beginners who want to level up their career skills in data analysis!
