@@ -38,7 +38,7 @@ Due to the size of the dataset (~140MB), it is hosted on **Google Drive** for ea
 
 ---
 ## Phase - 1
-### Levels Completed:18
+### Levels Completed:19
 ---
 ###  Incomplete Tasks in Levels:
 
@@ -62,6 +62,11 @@ Due to the size of the dataset (~140MB), it is hosted on **Google Drive** for ea
 | Level_16 | Task_5 |
 | Level_17 | Task_7,Task_8,Task_9 |
 | Level_18 | Task_7 |
+| Level_19 | Task_3 to Task_8 |
+| Level_20 |  |
+| Level_21 |  |
+| Level_22 |  |
+| Level_23 |  |
 
 ---
 
